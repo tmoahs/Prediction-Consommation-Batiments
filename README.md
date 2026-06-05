@@ -1,4 +1,4 @@
-# Projet 4 : Anticipez les besoins en consommation de bâtiments
+# Anticipez les besoins en consommation de bâtiments
 
 ### Objectif & Résultat Principal
 
