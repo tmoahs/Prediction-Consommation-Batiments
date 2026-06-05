@@ -6,8 +6,6 @@ Développement de deux modèles de régression (LGBM) pour prédire les émissio
 
 ---
 
-Ce quatrième projet du parcours Data Scientist d'OpenClassrooms marque l'entrée dans le monde du **Machine Learning**. La mission est de développer un modèle prédictif supervisé pour anticiper la consommation énergétique de bâtiments, en passant par toutes les étapes clés : de la création de variables pertinentes à l'interprétation des résultats du modèle.
-
 ### Contexte
 
 La maîtrise du Machine Learning est une compétence fondamentale qui distingue le métier de Data Scientist. Ce projet vise à mettre en pratique le workflow complet d'un projet de ML supervisé, l'application la plus courante en entreprise. L'accent est également mis sur l'explicabilité des modèles (XAI), une compétence de plus en plus exigée pour garantir la transparence et la confiance dans les solutions d'IA.
